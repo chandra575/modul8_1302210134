@@ -1,0 +1,5 @@
+E:\PraktikumOnline\modul8_1302210134\modul8_1302210134\obj\Debug\net6.0\modul8_1302210134.csproj.AssemblyReference.cache
+E:\PraktikumOnline\modul8_1302210134\modul8_1302210134\obj\Debug\net6.0\modul8_1302210134.GeneratedMSBuildEditorConfig.editorconfig
+E:\PraktikumOnline\modul8_1302210134\modul8_1302210134\obj\Debug\net6.0\modul8_1302210134.AssemblyInfoInputs.cache
+E:\PraktikumOnline\modul8_1302210134\modul8_1302210134\obj\Debug\net6.0\modul8_1302210134.AssemblyInfo.cs
+E:\PraktikumOnline\modul8_1302210134\modul8_1302210134\obj\Debug\net6.0\modul8_1302210134.csproj.CoreCompileInputs.cache
